@@ -57,8 +57,8 @@ body {
     background-color: black;
   position: relative;
   cursor: url("Assets/Cursors/GhostHover.cur"), auto;
-  height: 155px;
-  width: 130px;
+  height: 130px;
+  width: 140px;
 }
 
 .card-face {
